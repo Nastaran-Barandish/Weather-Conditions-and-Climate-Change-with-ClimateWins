@@ -1,5 +1,5 @@
 # Overview
-This project classifies weather stations based on climate data using machine learning algorithms. Multiple models—including KNN, Decision Tree, and Neural Network—were explored to evaluate performance across varied environmental conditions. The final workflow includes preprocessing, model evaluation, and visual analytics.
+This project classifies weather stations based on climate data using machine learning algorithms. Multiple models including KNN, Decision Tree, and Neural Network were explored to evaluate performance across varied environmental conditions. The final workflow includes preprocessing, model evaluation, and visual analytics.
 # Goals
 - Classify stations based on weather features
 - Identify the most accurate and generalizable model
